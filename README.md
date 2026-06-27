@@ -1,7 +1,7 @@
 # Article
 **RLCS: A Reinforcement Learning based Cluster Selector**
 
-# How to Run
+## How to Run
 
 The implementation of the feature selection method is provided in the `RLCS.ipynb` notebook.
 
